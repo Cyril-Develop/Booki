@@ -23,3 +23,5 @@
 ```terminal
 git clone https://github.com/Cyril-Develop/Booki.git
 ```
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Cyril-Develop/Booki?style=for-the-badge)
