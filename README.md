@@ -1,14 +1,14 @@
-![formation](./assets/OpenClassRooms.png)
+![formation](./assets/screenshot/openClassRooms.png)
 
 # Formation développeur web 
 
 
 
-## Projet 2: Booki
+## 📎 Projet 2: Booki
 
 
 
-![screenshot du site](./assets/screenshot.jpg)
+![screenshot du site](./assets/screenshot/booki%20acc.jpg)
 
 
 
